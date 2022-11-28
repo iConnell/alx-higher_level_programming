@@ -21,3 +21,10 @@ a python script that a string
 ```
 
 
+### [3-print_number.py](./3-print_number.py)
+```
+prints an integer and string in one line using f strings
+```
+
+
+
