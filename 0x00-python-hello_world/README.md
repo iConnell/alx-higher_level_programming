@@ -34,3 +34,10 @@ prints a float with two precision digits
 
 
 
+### [5-print_string.py](./5-print_string.py)
+```
+prints a strings 3 times
+```
+
+
+
