@@ -27,4 +27,10 @@ prints an integer and string in one line using f strings
 ```
 
 
+### [4-print_float.py](./4-print_float.py)
+```
+prints a float with two precision digits
+```
+
+
 
