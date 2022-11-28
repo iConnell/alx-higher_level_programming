@@ -40,4 +40,10 @@ prints a strings 3 times
 ```
 
 
+### [6-concat.py](./6-concat.py)
+```
+concatenates two strings
+```
+
+
 
