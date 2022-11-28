@@ -46,4 +46,9 @@ concatenates two strings
 ```
 
 
+### [7-edges.py](./7-edges.py)
+```
+sring slicing
+```
+
 
