@@ -15,3 +15,9 @@ The python code is saved in an environment variable PYCODE
 ```
 
 
+### [2-print.py](./2-print.py)
+```
+a python script that a string
+```
+
+
