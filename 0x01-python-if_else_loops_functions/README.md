@@ -55,4 +55,9 @@ prints a string in uppercase
 ```
 
 
+### [9-print_last_digit.py](./9-print_last_digit.py)
+```
+prints the last digit of a number
+```
+
 
