@@ -58,5 +58,10 @@ more string slicing
 ```
 
 
+### [9-easter_egg.py](./9-easter_egg.py)
+```
+a script that prints the zen of python
+```
+
 
 
