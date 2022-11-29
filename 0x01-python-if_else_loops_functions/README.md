@@ -25,4 +25,10 @@ a script that prints the alphebets except q and e
 ```
 
 
+### [4-print_hexa.py](./4-print_hexa.py)
+```
+prints all numbers from 0 to decimal and hexadecimal
+```
+
+
 
