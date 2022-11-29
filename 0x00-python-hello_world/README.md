@@ -52,3 +52,11 @@ sring slicing
 ```
 
 
+### [8-concat_edges.py](./8-concat_edges.py)
+```
+more string slicing
+```
+
+
+
+
