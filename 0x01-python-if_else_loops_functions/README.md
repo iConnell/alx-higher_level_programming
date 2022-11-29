@@ -31,4 +31,9 @@ prints all numbers from 0 to decimal and hexadecimal
 ```
 
 
+### [5-print_comb2.py](./5-print_comb2.py)
+```
+prints all numbers from 0 to 99 in two digits
+```
+
 
