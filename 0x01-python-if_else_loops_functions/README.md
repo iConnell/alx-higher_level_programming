@@ -19,3 +19,10 @@ prints the letters of the alphebet in lowercase
 ```
 
 
+### [3-print_alphabt.py](./3-print_alphabt.py)
+```
+a script that prints the alphebets except q and e
+```
+
+
+
