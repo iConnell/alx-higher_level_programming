@@ -49,4 +49,10 @@ checks if a number is lowercase
 ```
 
 
+### [8-uppercase.py](./8-uppercase.py)
+```
+prints a string in uppercase
+```
+
+
 
