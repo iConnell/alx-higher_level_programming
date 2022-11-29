@@ -43,3 +43,10 @@ prints all the possible combinations of two digits
 ```
 
 
+### [7-islower.py](./7-islower.py)
+``` 
+checks if a number is lowercase
+```
+
+
+
