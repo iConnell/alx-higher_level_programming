@@ -37,3 +37,9 @@ prints all numbers from 0 to 99 in two digits
 ```
 
 
+### [6-print_comb3.py](./6-print_comb3.py)
+```
+prints all the possible combinations of two digits
+```
+
+
