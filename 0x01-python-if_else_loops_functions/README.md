@@ -66,3 +66,11 @@ prints the last digit of a number
 a function that adds two integers
 ```
 
+
+### [11-pow.py](./11-pow.py)
+```
+a function that computes the power of a number
+```
+
+
+
