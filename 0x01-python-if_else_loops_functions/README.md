@@ -73,4 +73,9 @@ a function that computes the power of a number
 ```
 
 
+### [12-fizzbuzz.py](./12-fizzbuzz.py)
+```
+a function that prints the numbers 1 to 100
+```
+
 
